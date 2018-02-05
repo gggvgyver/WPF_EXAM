@@ -112,7 +112,9 @@
   <ItemGroup>
     <Resource Include="작업메모.txt" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="img\5.jpg" />
+  </ItemGroup>
   <ItemGroup>
     <Resource Include="img\1.jpg" />
     <Resource Include="img\2.jpg" />

@@ -1,0 +1,1 @@
+﻿프로젝트 references에서 caliburn.micro 설치

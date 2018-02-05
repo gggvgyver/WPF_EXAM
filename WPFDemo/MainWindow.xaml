@@ -27,7 +27,7 @@
             <RowDefinition Height="20" />
         </Grid.RowDefinitions>
 
-        <TextBlock Grid.Column="1" Grid.Row="1" Text="별이야 오늘도 행복해라"/>
+        <TextBlock Grid.Column="1" Grid.Row="1" Text="도서관에서 WPF 연습 180205" Grid.ColumnSpan="3"/>
         <TextBlock Grid.Column="1" Grid.Row="2" Text="너의 성은?" FontSize="14"/>
         <TextBox x:Name="FirstName" Grid.Column="2" Grid.Row="2" Width="150"/>
     </Grid>

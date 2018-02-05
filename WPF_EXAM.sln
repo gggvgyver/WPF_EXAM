@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDemo", "WPFDemo\WPFDemo.csproj", "{862518CD-BC39-4C70-8ED1-81A2A0D8847E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFUI_Caliburn_Micro", "WPFUI_Caliburn_Micro\WPFUI_Caliburn_Micro.csproj", "{9310A7FB-7738-48EE-8C53-102B0BFFEC83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{862518CD-BC39-4C70-8ED1-81A2A0D8847E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{862518CD-BC39-4C70-8ED1-81A2A0D8847E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{862518CD-BC39-4C70-8ED1-81A2A0D8847E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9310A7FB-7738-48EE-8C53-102B0BFFEC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9310A7FB-7738-48EE-8C53-102B0BFFEC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9310A7FB-7738-48EE-8C53-102B0BFFEC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9310A7FB-7738-48EE-8C53-102B0BFFEC83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
